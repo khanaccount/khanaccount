@@ -2,7 +2,7 @@
 
 ## 🚀 Обо мне
 
-Я начинающий frontend разработчик
+#### Я начинающий frontend разработчик
 
 ## ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanaccount&theme=transparent&show_icons=true)
 
