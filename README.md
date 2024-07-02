@@ -4,7 +4,9 @@
 
 #### Я начинающий frontend разработчик
 
-## ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanaccount&theme=transparent&show_icons=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=khanaccount&theme=transparent&show_icons=true" alt="GitHub Stats">
+</div>
 
 ## 🛠 Навыки
 
