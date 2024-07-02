@@ -1,15 +1,28 @@
-# khanaccount🎓
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanaccount&show_icons=true)
-
-## Навыки
-
-![React](https://img.shields.io/badge/Code-React-61DAFB?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/Code-TypeScript-007ACC?style=flat-square&logo=typescript)
-![Visual Studio Code](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code)
-![SCSS](https://img.shields.io/badge/Code-SCSS-CC6699?style=flat-square&logo=sass)
-![Tailwind CSS](https://img.shields.io/badge/Code-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
-![Google Chrome](https://img.shields.io/badge/Browser-Google%20Chrome-4285F4?style=flat-square&logo=google-chrome)
-![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows)
-
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
+on:
+  # Schedule updates (once at midnight)
+  schedule: [{cron: "0 0 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Header
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          # Your GitHub token
+          # The following scopes are required:
+          #  - public_access (default scope)
+          # The following additional scopes may be required:
+          #  - read:org  (for organization related metrics)
+          #  - read:user (for user related data)
+          #  - repo      (optional, if you want to include private repositories)
+          token: ${{ secrets.GITHUB_TOKEN }}
+          base: repositories
+          plugin_followup: yes
+          plugin_followup_archived: no
+          user: khanaccount
