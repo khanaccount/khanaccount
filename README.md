@@ -1,8 +1,8 @@
-# khanaccount 🎓
+# khanaccount🎓
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=username&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khanaccount&show_icons=true)
 
-## Skills
+## Навыки
 
 ![React](https://img.shields.io/badge/Code-React-61DAFB?style=flat-square&logo=react)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-F7DF1E?style=flat-square&logo=javascript)
@@ -12,3 +12,4 @@
 ![Tailwind CSS](https://img.shields.io/badge/Code-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![Google Chrome](https://img.shields.io/badge/Browser-Google%20Chrome-4285F4?style=flat-square&logo=google-chrome)
 ![Windows](https://img.shields.io/badge/OS-Windows-0078D6?style=flat-square&logo=windows)
+
