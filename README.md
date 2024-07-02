@@ -2,7 +2,9 @@
 
 ## 🚀 Обо мне
 
-#### Я начинающий frontend разработчик
+<div align="center" fonts>
+     <font size="5">Я начинающий frontend разработчик</font>
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khanaccount&theme=transparent&show_icons=true" alt="GitHub Stats">
