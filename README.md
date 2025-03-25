@@ -3,7 +3,7 @@
 ## 🚀 Обо мне
 
 <div align="center" fonts>
-     <font size="5">Я Frontend разработчик</font>
+     <font size="5">Я начинающий Frontend разработчик</font>
 </div>
 
 <div align="center">
