@@ -18,7 +18,7 @@ Frontend разработчик, проживающий в Красноярск�
 
 ---
 
-## 🛠️ Технологии и инструменты
+## 🛠️ Tech Stack
 
 ### Frontend Core
 
@@ -52,7 +52,7 @@ Frontend разработчик, проживающий в Красноярск�
 
 ---
 
-## 📈 Топ языки программирования
+## 📈 Top Languages
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanaccount&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
