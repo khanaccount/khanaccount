@@ -1,24 +1,19 @@
 # 👋 Hi, I'm Ilya
 
-## 🚀 About Me
-
-Frontend developer based in Krasnoyarsk. I specialize in creating modern web applications using the React ecosystem. My programming journey started with a simple "Hello World" and continues to this day!
+> **Frontend Developer** based in Krasnoyarsk, specializing in modern React applications
 
 ---
 
-## 📊 GitHub Statistics
+## 🚀 Quick Overview
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khanaccount&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanaccount&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=6366F1&sideLabels=6366F1&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🛠️ Tech Stack & 📈 Top Languages
+## 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
@@ -29,9 +24,13 @@ Frontend developer based in Krasnoyarsk. I specialize in creating modern web app
   <img src="https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
   <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  
-  <br><br>
-  
+</div>
+
+---
+
+## 📈 Top Languages
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanaccount&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
