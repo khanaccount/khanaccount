@@ -1,12 +1,12 @@
-# 👋 Привет, я Илья
+# 👋 Hi, I'm Ilya
 
-## 🚀 Обо мне
+## 🚀 About Me
 
-Frontend разработчик, проживающий в Красноярске. Специализируюсь на создании современных веб-приложений с использованием React экосистемы. Мой путь в программировании начался с простого "Hello World" и продолжается до сих пор!
+Frontend developer based in Krasnoyarsk. I specialize in creating modern web applications using the React ecosystem. My programming journey started with a simple "Hello World" and continues to this day!
 
 ---
 
-## 📊 Статистика GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khanaccount&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
@@ -37,7 +37,7 @@ Frontend разработчик, проживающий в Красноярск�
 
 ---
 
-## 🤝 Давайте пообщаемся!
+## 🤝 Let's Connect!
 
 <div align="center">
   <a href="https://t.me/dostanmenyatyt">
