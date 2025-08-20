@@ -88,10 +88,10 @@
 
 <div align="center">
   <a href="https://github.com/HorizontTSD/horizontsd-tool">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanaccount&repo=horizontsd-tool&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HorizontTSD&repo=horizontsd-tool&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" />
   </a>
   <a href="https://github.com/HorizontTSD/horizontsd-info">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=khanaccount&repo=horizontsd-info&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HorizontTSD&repo=horizontsd-info&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" />
   </a>
 </div>
 
