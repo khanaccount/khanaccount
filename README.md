@@ -22,7 +22,10 @@
   <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=mui&logoColor=white" alt="Material-UI" />
   <img src="https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux Toolkit" />
+  <img src="https://img.shields.io/badge/-RTK_Query-FF4154?style=flat-square&logo=redux&logoColor=white" alt="RTK Query" />
+  <img src="https://img.shields.io/badge/-Vitest-6E56CF?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
   <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook" />
+  <img src="https://img.shields.io/badge/-Husky-000000?style=flat-square&logo=git&logoColor=white" alt="Husky" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
 </div>
 
